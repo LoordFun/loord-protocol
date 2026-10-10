@@ -1,0 +1,260 @@
+assets/Swap-CpiqdL-X.js
+assets/react-DIKbKaD3.js
+assets/chart-UhKkhHo-.js
+assets/orders-Dsl9q8WV.js
+assets/Pools-DkyP1hol.js
+assets/solana-CdzZdMll.js
+assets/Pool-yF0WNCa4.js
+assets/charts-RypzCXAQ.js
+assets/Positions-BdkpYIia.js
+assets/shareCard-DrXCEH3b.js
+assets/Create-CkxY8dcV.js
+assets/Token-BtTYTiFw.js
+assets/Docs-KFtqZjIX.js
+assets/Og-BfEEXMm4.js
+assets/Brand-DfZgEBXw.js
+assets/Embed-BgNL-Uox.js
+./react-DIKbKaD3.js
+./solana-CdzZdMll.js
+use-credentials
+same-origin
+mainnet-beta
+https://mainnet.helius-rpc.com/?api-key=c8b7cdf8-638f-472e-bb3d-bc5beea5abf1
+VITE_RPC_URL is not set
+Voltage Cat
+Low Freq Otter
+moog coin
+Fuzz Pedal
+Taxi Meter
+Knob Goblin
+Live Wire
+content-type
+meta[property=csp-nonce]
+Unable to preload CSS for ${u}
+Private accessor was defined without a getter
+Cannot read private member from an object whose class did not declare it
+Private method is not writable
+Private accessor was defined without a setter
+Cannot write private member to an object whose class did not declare it
+wallet-standard:register-wallet
+wallet-standard:register-wallet event listener could not be added
+
+wallet-standard:app-ready event could not be dispatched
+wallet-standard:app-ready
+preventDefault cannot be called
+stopImmediatePropagation cannot be called
+stopPropagation cannot be called
+Refused to sign: ${l}
+the transaction loads accounts from address lookup tables.
+the fee payer is not your wallet.
+an instruction calls a program outside the transaction.
+it calls program ${p}, which Patch doesn't use.
+it moves SOL somewhere other than your wrapped-SOL account.
+it includes a token instruction other than wrapping or unwrapping SOL.
+its priority fee is over 0.005 SOL.
+No Solana account in this wallet
+Connect a wallet first
+Refused to sign: the API returned a transaction that could not be read.
+This wallet can’t send Solana transactions
+./index-CyZExzMO.js
+useWallet outside WalletProvider
+Not enough balance
+Simulation failed: ${JSON.stringify(n.err)}
+Transaction failed: ${JSON.stringify(i.err)}
+Transaction failed: ${JSON.stringify(u[0].err)}
+Transaction didn’t land in time. Check your wallet history before retrying.
+${a}$${n.toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2})}
+en-US
+Dynamic fee
+Launch guard
+Creator fee
+/brand-mark.png
+aria-hidden
+'<>]+$/i.test(s)?s:void 0;function Ee({t:s,size:t=
+,title:`Verified mint ${s.mint}`,children:
+,title:n?`Transfer fee ${n/100}%`:
+}):null}function Cn({hook:s,mods:t=!0}){if(s.kind===
+,text:`Airdrop failed: ${x.message}`})}},children:[
+,{className:`cable-tag ${j?
+:n.length===1?w.name:`${n.length} modules, one hook`]}),e.jsx(
+,d:`The price moved ${((K-t.p1)/K*100).toFixed(2)}%. The hook adds it to its running measure, so the next trade pays a little more unless the market calms down.`}:s===
+,d:`${O(t.toCurve)} SOL at a ${t.feePct.toFixed(2)}% fee moves SOL from ${O(K)} to ${O(t.p1)} USDC through the pool’s liquidity.`},{k:
+:t<k+se?`Fee for a trade at ${re(t)}. It slides from 25% to 0.30% over the first five minutes, and buys are capped at 5 SOL per second.`:
+,{children:s.why})]})]},s.name))]})]})]})}function Ht(){const[s,t]=c.useState(!0),[n,a]=c.useState(null),[o,r]=c.useState(1.37),[i,h]=c.useState({x:0,y:0}),u=new Date(Date.now()+182*864e5).toLocaleDateString(
+,{className:`nft-msg ${n?.bad?
+}`,children:a?`Trade goes through at ${s.toFixed(1)}%.`:
+:`, ${i}% unless the pool was created under a different setting,`,
+:`Every swap pays the pool fee. ${100-i}% goes to LPs.`},{k:
+,d:`Coins → SOL or USDC, USDC → SOL now. SOL → PATCH from launch. ${h}`}:n===
+,d:`Swaps one step toward PATCH through Patch pools. ${h}`},n===
+},api:{label:"HTTP API",lang:"sh",src:
+sec split
+sec-head
+mono-label
+Ready to integrate on day one.
+sec-lede
+The program's IDL is published on-chain, so explorers decode every instruction. A TypeScript SDK quotes exactly what the program will do, and a public API returns ready-to-sign transactions. Every pool shares one program and one account layout, so a router integrates once.
+row-btns
+SDK docs
+code-card
+seg dark
+Patch it in.
+./Swap-CpiqdL-X.js
+./Pools-DkyP1hol.js
+./Pool-yF0WNCa4.js
+./Positions-BdkpYIia.js
+./Create-CkxY8dcV.js
+./Token-BtTYTiFw.js
+./Docs-KFtqZjIX.js
+./Og-BfEEXMm4.js
+./Brand-DfZgEBXw.js
+./Embed-BgNL-Uox.js
+wrap page
+page-head
+Nothing patched in here.
+btn primary
+Back home
+width=device-width, initial-scale=1.0, viewport-fit=cover
+#ecebe7
+patch · liquidity you can rewire
+Patch is a concentrated-liquidity AMM on Solana with a hook slot in every pool. Launch guards, dynamic fees, a TWAP oracle and creator fees plug in at creation, inside caps fixed for good. Token-2022 coins welcome; fees burn $PATCH.
+website
+patch
+https://usepatch.trade/
+Concentrated liquidity on Solana with a hook slot in every pool. Plug in launch guards, dynamic fees, TWAPs and creator fees. Fees burn $PATCH.
+https://usepatch.trade/og.png
+1200
+630
+summary_large_image
+Concentrated liquidity on Solana with a hook slot in every pool. Fees burn $PATCH.
+r as rs,Q as cs,u as E,b as c,k as he,j as e,d as Fe,L as y,e as ue,O as is,N as ls,R as ds,f as T,h as hs,B as us
+P as R,L as Me,C as fs,V as ms,K as xe,b as ps
+for(const o of document.querySelectorAll('link
+for(const r of o)if(r.type
+for(const i of r.addedNodes)i.tagName
+class qe extends Error
+Unable to preload CSS for $
+register-wallet event listener could not be added
+app-ready event could not be dispatched
+class Rs extends Event
+for(const l of o.compiledInstructions)
+which Patch doesn't use.
+the API returned a transaction that could not be read.
+Airdropped 10 SOL to the burner
+No Solana wallet found. Install 
+M17.75 3h3.07l-6.7 7.66L22 21h-6.17l-4.83-6.32L5.47 21H2.4l7.17-8.2L2 3h6.33l4.37 5.77L17.75 3zm-1.08 16.17h1.7L7.4 4.74H5.58l11.09 14.43z
+M0 1h16M0 6h16M0 11h16
+Concentrated liquidity on Solana. Every pool has a hook slot and caps that never change.
+patch   usepatch.trade   charts by 
+Pools can’t be changed after creation   Program upgrades need the Patch multisig
+API unreachable. Prices, quotes and trading are paused until it’s back.
+The Patch API isn't reachable, so this is built-in demo data
+Runs before the curve. Can refuse the trade.
+Runs after the curve, before tokens move. Sees where the price landed.
+Runs before every deposit. Can refuse it. Withdrawals never call the hook.
+Runs after every deposit.
+Lets the hook set the fee, up to the pool’s max fee.
+Lets the hook take a charge from the input, up to the pool’s cap.
+Opens trading at a set second. Early buyers pay a fee that slides from 25% to the base fee over five minutes, and buys are capped at 5 SOL per second.
+Adds 0.10% to the fee for every 0.64% the price moved in recent trades, up to 5%, and halves that every minute the market stays calm.
+Writes the price into a 64-slot ring before trades, at most once every 15 seconds. Any program can read a time-weighted price over about the last 16 minutes.
+Takes 0.50% of each trade’s input for the pool’s creator to collect.
+Any Solana program that answers the callback. These four jacks would let it watch and refuse trades and deposits, without touching the fee. Withdrawals never call a hook.
+for(const n of s)for(const a of z(n).jacks)t
+Patch is a concentrated-liquidity AMM on Solana. Every pool has six jacks. Plug a hook program into them when you create the pool and it runs around every trade and deposit, inside caps the pool fixes for good. Launch guards, dynamic fees, a TWAP oracle and creator fees come in the box, and any Solan
+a coin fits, Token-2022 included.
+Drag a cable onto the pool, or click a module. Modules stack.
+A pool module with six jacks and patch cables hanging from a rail
+D needs WebGL. The modules still work below.
+SOL / USDC   example pool
+No hook. The pool trades like a plain concentrated-liquidity pool at its 0.30% fee.
+Nothing before the trade
+No hook, no call. The pool runs like a plain concentrated-liquidity pool.
+The hook sets the fee
+Recent trades moved the price about 3.5%. The hook adds 0.10% for every 0.64% of that to the 0.30% base and answers 0.84%, under the pool’s 5% cap.
+The hook takes 0.50% of the input
+SOL is set aside for the pool’s creator. The other 39.80 SOL goes into the curve.
+The hook refuses the trade
+Two minutes after open, this pool’s launch guard lets at most 5 SOL in per second. 40 SOL is over that, so the hook answers with an error.
+The hook records the move
+The hook adds it to its running measure, so the next trade pays a little more unless the market calms down.
+A refused trade stops here.
+Nothing after the trade
+The creator fee module only needs the before jack.
+A router finds the pool
+Every Patch pool lists its accounts the same way, whatever is plugged in, so one integration reaches all of them.
+The whole transaction reverts. No tokens move, no fee is charged, and the router can send the trade to another pool.
+The curve moves the price
+USDC through the pool’s liquidity.
+The 40 SOL is still in the wallet.
+USDC out. If any hook call had failed, nothing would have moved.
+for(const x of p)x.isIntersecting
+SOL for USDC in an example pool. Pick what's patched in, then scroll.
+The trade's path through the pool
+M0 -10 C 0 -60, 40 -70, 60 -90
+Four modules, one launch.
+The Rack is Patch's built-in hook. Its modules patch together in one pool. Here they run through the first eighty minutes of an example coin, CORD/SOL, opening at 15
+Let it play, or drag the clock.
+Until then every trade is refused, so nobody buys before the announced second.
+It slides from 25% to 0.30% over the first five minutes, and buys are capped at 5 SOL per second.
+The window is over. The pool charges its 0.30% base fee and the per-second buy cap is off.
+Adds 0.10% for every 0.64% the price moved in recent trades, up to 5%. Every calm minute halves the extra, so quiet markets trade at the base fee.
+Time-weighted price over the last 
+minutes, for lending markets, perps or another hook to read. The ring holds about 16 minutes. One trade can't move it much.
+Takes 0.50% of each trade's input for the coin's creator to collect, whenever they like. The pool caps it, so it can never be raised later.
+New pump.fun coins are Token-2022 mints.
+Token-2022 + transfer fee
+Quotes, slippage and LP math count the fee.
+Token-2022 + display extensions
+Raw amounts never change under the pool.
+could pull tokens out of the vault
+could freeze the pool
+could freeze the vault (only USDC-style hubs keep one)
+could be re-created with any of the above
+Any coin worth holding.
+Patch takes standard SPL tokens and Token-2022 tokens, transfer fees included. That covers new pump.fun coins, which are Token-2022 mints. Extensions that could drain, freeze or trap a vault are refused when the pool is created.
+A position you can hold, hand over or lock.
+Every liquidity position is a Token-2022 NFT. Whoever holds it owns the liquidity and the fees, so a position can be sent, sold or used as collateral. Lock it until a date and withdrawals stop. Fees still flow to the holder.
+Locks only extend. Nobody, including you, can shorten one.
+becomes something anyone can check on-chain.
+No cap on how many ranges a pool can hold.
+SOL of liquidity withdrawn.
+SOL collected. The lock doesn't stop fees.
+Nothing to collect yet.
+Locked for 182 days. It can only be extended.
+The pool sets the ceiling. Forever.
+When a pool is created it fixes its hook, the jacks the hook may use, a max fee and a surcharge cap. A hook that asks for more fails the whole trade, so nothing moves and a router sends the order elsewhere. Nothing about a pool's tokens, fees, caps or hook can be changed after creation.
+Hooks can't write to the vaults or your token accounts, and never get a trader's signature.
+The pool is locked while its hook runs, so a hook can't call back into it.
+Withdrawals and fee collection never call the hook. A hook can refuse swaps and deposits, never withdrawals.
+Program upgrades need the Patch multisig.
+a hook answers before the trade
+Fee the hook asks for
+Trade goes through at $
+the trade reverts, nothing moves.
+Each run spends 10% of a balance, at most once per 10 minutes per pool, and only within 2% of the 30-minute average price.
+Every pool feeds the burn.
+A share of every pool's fees
+unless the pool was created under a different setting,
+goes to a treasury that can only do two things
+swap one step toward PATCH through vetted Patch pools, and burn the PATCH it ends up with.
+PATCH launches after the protocol. Until then coins convert into SOL or USDC, USDC into SOL, and SOL waits for PATCH.
+Every swap pays the pool fee. Most of it goes to LPs.
+Every swap pays the pool fee. $
+Holds the protocol share, in whatever token it was paid in.
+Swaps one step toward PATCH through Patch pools. $
+From launch, every PATCH the treasury holds is burned. Anyone can trigger it.
+Every PATCH the treasury holds is burned. Anyone can trigger it.
+treasury held for the first buyback
+q.amountOut matches the program to the atom,
+transfer fees and hook fees included
+await patch.swapFromQuoteIx(wallet, q.pool, q, order)
+best route through one pool or two,
+with the hook's fee already counted
+an unsigned transaction, ready for the wallet
+curl -X POST api.usepatch.trade/v1/swap 
+is the pool's hook authority
+check it, then decide
+L as $,Dn as A,Fn as B,ts as C,I as D,kn as E,On as F,vn as G,Cn as H,hn as I,Ts as J,un as K,Je as L,mt as M,Ln as N,
+n as O,An as P,ft as Q,jn as R,Rn as S,$n as T,it as U,In as V,yt as W,yn as X,pn as Y,Mn as Z,ns as 
+Ns as a,z as a0,xn as a1,En as a2,Ps as a3,Bt as a4,Ze as a5,Ie as a6,as as a7,Xe as b,bn as c,st as d,wn as e,Pe as f,Sn as g,fn as h,mn as i,Ee as j,me as k,gt as l,Qe as m,tt as n,gn as o,oe as p,Ge as q,Nn as r,pe as s,rt as t,Ss as u,Tn as v,Pn as w,et as x,fe as y,Xs as z

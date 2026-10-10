@@ -1,0 +1,29 @@
+/* The only file in the project allowed to hold colour literals.
+   Provenance: every value is an exact pixel read from the files in brand/ and reference/.
+   Palette reduced with k-means (chroma-only for the wheel hues), each centroid snapped to the nearest real pixel.
+   paper   brand/LOGO LOORD PNG.png at (0,0)             share 0.84
+   ink     brand/LOGO LOORD JPG.jpg.jpeg at (607,502)    share 0.107
+   orange  brand/LOGO LOORD PNG.png at (1150,940)
+   yellow  brand/LOGO LOORD PNG.png at (986,864)
+   cobalt  brand/LOGO LOORD PNG.png at (1170,1029)
+   magenta brand/LOGO LOORD PNG.png at (793,1024)
+   green   brand/LOGO LOORD PNG.png at (1026,1161)
+   paper-2 reference/SAMPUL LOORD JPG.jpg.jpeg at (552,108)
+   card    reference/LOORD 1.jpg.jpeg at (164,42)
+   ink-2   reference/LOORD 1.jpg.jpeg at (163,521)   body text of the slide
+   ink-3   reference/LOORD 1.jpg.jpeg at (252,817)   caption text of the slide
+   rule    reference/LOORD 1.jpg.jpeg at (340,806)   divider of the slide footer */
+:root {
+  --paper: #ecebe7;
+  --paper-2: #e6e7e1;
+  --card: #fafbf6;
+  --ink: #0d0d0d;
+  --ink-2: #61625c;
+  --ink-3: #676863;
+  --rule: #cccdc7;
+  --orange: #fb540e;
+  --yellow: #fbc503;
+  --cobalt: #064ff9;
+  --magenta: #e11481;
+  --green: #80bf17;
+}

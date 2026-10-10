@@ -1,0 +1,57 @@
+{
+  "_note": "Single register of every external fact. state is stated, absent or unconfirmed. Records that are not stated carry no value and no url. Dates live here as data only and never reach dist.",
+  "records": [
+    {
+      "id": "chain",
+      "label": "Chain",
+      "state": "stated",
+      "value": "Solana",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedOn": "2026-10-10"
+    },
+    {
+      "id": "rpc",
+      "label": "RPC endpoint",
+      "state": "stated",
+      "url": "https://solana-rpc.publicnode.com",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedOn": "2026-10-10"
+    },
+    {
+      "id": "ca",
+      "label": "Contract address",
+      "state": "absent",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedOn": "2026-10-10"
+    },
+    {
+      "id": "x",
+      "label": "X",
+      "state": "absent",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedOn": "2026-10-10"
+    },
+    {
+      "id": "github",
+      "label": "GitHub",
+      "state": "absent",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedOn": "2026-10-10"
+    },
+    {
+      "id": "market-source",
+      "label": "Market feed",
+      "state": "stated",
+      "url": "https://api.dexscreener.com",
+      "paths": { "boosts": "/token-boosts/top/v1", "pairs": "/tokens/v1/solana/" },
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedOn": "2026-10-10"
+    }
+  ]
+}

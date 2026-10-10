@@ -1,0 +1,35 @@
+{
+ "crop": {
+  "left": 450,
+  "top": 450,
+  "size": 1100
+ },
+ "out": 880,
+ "wheel": {
+  "cx": 50.01,
+  "cy": 57.04,
+  "rOuter": 20.08,
+  "rHub": 6.93,
+  "sizePct": 40.45,
+  "leftPct": 29.77,
+  "topPct": 36.82
+ },
+ "wedgeCentreDeg": {
+  "orange": -53.8,
+  "yellow": -125.8,
+  "cobalt": 17.5,
+  "magenta": 162.5,
+  "green": 89.8
+ },
+ "srcWheel": {
+  "cx": 1000.1,
+  "cy": 1077.4,
+  "rMax": 220.8,
+  "rMin": 76.2
+ },
+ "wheelPx": {
+  "size": 356,
+  "left": 262,
+  "top": 324
+ }
+}
